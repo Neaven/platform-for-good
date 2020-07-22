@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"platformforgood5e81393a": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

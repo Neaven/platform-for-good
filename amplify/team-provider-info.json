@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-platformforgood-dev-145558-authRole",
+            "UnauthRoleArn": "arn:aws:iam::855501076127:role/amplify-platformforgood-dev-145558-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::855501076127:role/amplify-platformforgood-dev-145558-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-platformforgood-dev-145558-deployment",
+            "UnauthRoleName": "amplify-platformforgood-dev-145558-unauthRole",
+            "StackName": "amplify-platformforgood-dev-145558",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:855501076127:stack/amplify-platformforgood-dev-145558/bcaaceb0-c8c3-11ea-8916-0a6602c8251e",
+            "AmplifyAppId": "d12sbveyf18lep"
+        },
+        "categories": {
+            "auth": {
+                "platformforgood5e81393a": {}
+            }
+        }
+    }
+}
