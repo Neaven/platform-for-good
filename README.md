@@ -123,15 +123,6 @@ first one.
 Simply go to **_src/variables.scss_** and change the values for
 font, primary, accent or warn color.
 
-## Screenshots
-Login Page
-
-![Login Page](docs/images/login.png)
-
- Sidenav Page
- 
-![Sidenav Page](docs/images/sidenav.png)
-
 Different Theme
 
 ``` diff
@@ -140,5 +131,3 @@ variables.scss
 - $my-app-primary: mat-palette($mat-red);
 + $my-app-primary: mat-palette($mat-blue);
 ```
-![Blue Login Page](docs/images/login-blue.png)
-![Blue Sidenav Page](docs/images/sidenav-blue.png)
